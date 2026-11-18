@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Caché de Python y Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Variables de entorno y configuraciones locales
+.env
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar modelos o datasets que superen el límite de GitHub (>100MB)
+# (Descomentar si el dataset crudo no debe subirse)
+# data/raw/*.csv
