@@ -6,7 +6,8 @@ Aplicación web interactiva desarrollada para la asignatura de **Inteligencia Ar
 * **Problema a resolver:** Clasificación binaria para predecir si una muestra de agua es apta para el consumo humano (`Potability = 1`) o requiere tratamiento (`Potability = 0`).
 
 ## Demostración
-[Enlace a la aplicación desplegada en Streamlit Cloud](https://url-de-la-app.streamlit.app) *(Por actualizar con la URL final tras el despliegue)*
+
+[Enlace a la aplicación desplegada en Streamlit Cloud](https://proyecto-xgboost-grupo7-npmqvdyycj7ixwkmmybmvz.streamlit.app)
 
 ## Algoritmo utilizado
 * **Algoritmo:** Extreme Gradient Boosting (`XGBClassifier`).
